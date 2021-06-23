@@ -1,1 +1,0 @@
-<?php include_once("examples/1.getting-started/index.html"); ?>
